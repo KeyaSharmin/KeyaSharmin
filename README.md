@@ -33,5 +33,5 @@
 <a href="https://www.linkedin.com/in/sharmin-akter-keya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharmin-akter-keya" height="30" width="40" /></a>
 <a href="https://www.facebook.com/keyasharminn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keyasharminn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCIlaJXBYprPGPA8Qnx8-c8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keyasharmin3000" height="30" width="40" /></a>
-<a href="https://keyasharmin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="keyasharmin.com" height="30" width="40" /></a>
+<a href="https://KeyaSharmin.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="keyasharmin.com" height="30" width="40" /></a>
 </div>
