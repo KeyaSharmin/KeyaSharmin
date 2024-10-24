@@ -1,18 +1,18 @@
 <h1 align ="center"> Hey there! 👋 I'm Sharmin Akter Keya </h1>
 
-*A passionate computer enthusiast with a keen interest in the fascinating world of machine learning.*
-
+*A passionate data specialist with expertise in building dynamic websites and applications, always exploring new possibilities in the world of machine learning.*
 
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=KeyaSharmin&color=blueviolet)
 
 [![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/KeyaSharmin/KeyaSharmin/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
-
 
 <h2 align = "center"> 🧰 Languages and Tools </h2>
 <p align="center">
@@ -23,14 +23,19 @@
 <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />	
-
+<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
 </br>
+<h2 align = "center"> About Me 💻 </h2>
+<p align="center"> 
+I'm currently a Data Specialist at Absolute Storage Management (ASM), where I utilize my skills in data analysis, building websites, and developing user-friendly GUI applications. I have experience in various technologies, including Python, JavaScript, PHP, Laravel, React JS, and more. My passion lies in combining data science with machine learning to solve complex problems and improve business processes. I continuously seek opportunities to grow and refine my technical abilities in the tech industry.
+</p>
+
 <h3 align = "center"> Get in Touch 📬 </h3>
 <div align = "center">
 <a href="https://www.linkedin.com/in/sharmin-akter-keya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharmin-akter-keya" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/keyasharmin100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://www.facebook.com/keyasharminn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keyasharminn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCIlaJXBYprPGPA8Qnx8-c8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keyasharmin3000" height="30" width="40" /></a>
 <a href="https://KeyaSharmin.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="keyasharmin.com" height="30" width="40" /></a>
