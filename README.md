@@ -1,6 +1,6 @@
 <h1 align ="center"> Hey there! 👋 I'm Sharmin Akter Keya </h1>
 
-*A passionate data specialist with expertise in building dynamic websites and applications, always exploring new possibilities in the world of machine learning.*
+*Empowering businesses through data-driven insights and streamlined applications. With a passion for automation and a focus on innovation, I simplify complex processes, enhance productivity, and explore cutting-edge solutions in machine learning and analytics.*
 
 <div align="center">
 
