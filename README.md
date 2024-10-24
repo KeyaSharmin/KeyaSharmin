@@ -29,7 +29,7 @@
 </br>
 <h2 align = "center"> About Me 💻 </h2>
 <p align="center"> 
-I'm currently a Data Specialist at Absolute Storage Management (ASM), where I utilize my skills in data analysis, building websites, and developing user-friendly GUI applications. I have experience in various technologies, including Python, JavaScript, PHP, Laravel, React JS, and more. My passion lies in combining data science with machine learning to solve complex problems and improve business processes. I continuously seek opportunities to grow and refine my technical abilities in the tech industry.
+I am a Data Specialist at Absolute Storage Management (ASM), with expertise in data analysis and developing intuitive GUI applications. I have created cross-functional dashboards, automated processes, and designed apps to enhance productivity across the company. Additionally, I have developed numerous macros and automations to optimize data management and analytics. I am focused on advancing my programming skills and deepening my knowledge of industry metrics and data analytics tools.
 </p>
 
 <h3 align = "center"> Get in Touch 📬 </h3>
