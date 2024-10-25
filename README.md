@@ -26,11 +26,6 @@
 <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
-</br>
-<h2 align = "center"> About Me 💻 </h2>
-<p align="center"> 
-I am a Data Specialist at Absolute Storage Management (ASM), with expertise in data analysis and developing intuitive GUI applications. I have created cross-functional dashboards, automated processes, and designed apps to enhance productivity across the company. Additionally, I have developed numerous macros and automations to optimize data management and analytics. I am focused on advancing my programming skills and deepening my knowledge of industry metrics and data analytics tools.
-</p>
 
 <h3 align = "center"> Get in Touch 📬 </h3>
 <div align = "center">
