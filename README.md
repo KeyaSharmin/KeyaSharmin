@@ -1,6 +1,6 @@
 <h1 align ="center"> Hey there! 👋 I'm Sharmin Akter Keya </h1>
 
-*Empowering businesses through data-driven insights and streamlined applications. With a passion for automation and a focus on innovation, I simplify complex processes, enhance productivity, and explore cutting-edge solutions in machine learning and analytics.*
+*I'm currently pursuing a Ph.D. in Computer Science at the University of Wisconsin–Milwaukee (UWM), where I work as a Graduate Research Assistant and Teaching Assistant. My research interests include Artificial Intelligence, Deep Learning, Computer Vision, Medical Image Analysis, and Healthcare AI, with a focus on developing intelligent systems for real-world applications. Alongside my research, I support undergraduate computer science courses, helping students strengthen their skills in Software Engineering, Python, Django, and practical application development. I'm passionate about bridging research and practical implementation through impactful, data-driven solutions.*
 
 <div align="center">
 
